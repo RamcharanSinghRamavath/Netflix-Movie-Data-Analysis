@@ -35,12 +35,11 @@ The year 2020 had the highest number of movies released on Netflix.
  1. clone the Repository
     git clone <https://github.com/RamcharanSinghRamavath/Netflix-Movie-Data-Analysis/>
 
- 2.Install required libraries:
- 
-   pip install pandas matplotlib seaborn jupyter
+  2. Install required libraries:
+     pip install pandas matplotlib seaborn jupyter
 
- 3. Run the Jupyter Notebook:
-    jupyter notebook
+ 3.  Run the Jupyter Notebook:
+     jupyter notebook
 # Code Workflow
 
 # Load the dataset
